@@ -1,5 +1,58 @@
 # Shadcn-UI Template Usage Instructions
 
+## 🎯 Fitur Utama:
+---
+1. Dashboard
+
+- Ringkasan keuangan (pendapatan, pengeluaran, keuntungan bersih)
+- Statistik produk dan penjualan
+- Alert produk stok menipis
+- Penjualan terbaru
+
+## 2. Manajemen Produk
+
+- Tambah, edit, hapus produk
+- Kategorisasi produk
+- Tracking stok dan minimum stok
+- Perhitungan margin keuntungan per produk
+
+## 3. Manajemen Penjualan
+
+- Catat penjualan dengan otomatis mengurangi stok
+- Riwayat transaksi penjualan
+- Data pelanggan (opsional)
+
+## 4. Manajemen Pengeluaran
+
+- Catat semua pengeluaran bisnis
+- Kategorisasi pengeluaran
+- Tracking total pengeluaran
+
+## 5. Laporan & Analisis
+
+- Laporan keuangan komprehensif
+- Analisis performa produk
+- Breakdown pengeluaran per kategori
+- Filter berdasarkan periode (hari ini, 7 hari, 30 hari, semua)
+
+## 6. Kalkulator Bisnis
+
+- Kalkulator keuntungan (hitung profit dari harga beli/jual)
+- Kalkulator margin (tentukan harga jual berdasarkan target margin)
+- Break Even Point calculator
+
+## 💾 Penyimpanan Data:
+
+- Menggunakan localStorage untuk menyimpan semua data
+- Data tersimpan di browser dan tidak hilang saat refresh
+
+## 🎨 Antarmuka:
+
+- Modern dan responsif menggunakan Shadcn-UI
+- Navigasi mudah dengan tab system
+- Format mata uang Rupiah Indonesia
+- Design yang clean dan professional
+
 ## technology stack
 
 This project is built with:
