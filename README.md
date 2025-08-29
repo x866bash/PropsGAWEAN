@@ -2,7 +2,7 @@
 
 ## 🎯 Fitur Utama:
 ---
-1. Dashboard
+## 1. Dashboard
 
 - Ringkasan keuangan (pendapatan, pengeluaran, keuntungan bersih)
 - Statistik produk dan penjualan
